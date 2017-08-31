@@ -6,3 +6,7 @@
  - npm i
  - webpack-dev-server
  - save the file 'index.css' in ./src/
+
+
+# node version
+6.9.4
