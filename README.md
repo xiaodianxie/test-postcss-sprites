@@ -10,3 +10,6 @@
 
 # node version
 6.9.4
+
+# system
+macOS sierra 10.12.5

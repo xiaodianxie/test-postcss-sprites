@@ -38,5 +38,5 @@ module.exports = {
 	plugins: [new htmlWebpackPlugin({
 		filename: `index.html`,
 		template: 'swig-loader!' + path.join(__dirname, 'src/index.swig')
-	}), new ExtractTextPlugin({ filename: '[name].css', disable: false, allChunks: true })]
+	}), new ExtractTextPlugin({ filename: '[name].css', allChunks: true })]
 }
